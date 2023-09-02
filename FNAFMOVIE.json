@@ -1,0 +1,16 @@
+{
+    "manifest": {
+        "name": "FNAFMOVIE",
+        "version": "1.0.0",
+        "author": "Yuniki"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1147642179083325564\/1147644669879136376\/wp12184596.jpg?width=1174&height=2087",
+        "overlay_alpha": 170
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
